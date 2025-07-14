@@ -2,3 +2,5 @@ date: 14/07/25
 File2 is edited by Divya to check the Merge conflict.
 This file is also being edited by our teammate shahithya.
 Let's check it out how a merge conflict looks like..
+
+Test file 2 sahithya1 after branching

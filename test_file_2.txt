@@ -1,4 +1,4 @@
 date: 14/07/25
 File2 is edited by Divya to check the Merge conflict.
 This file is also being edited by our teammate shahithya.
-Let's check it out how a merge conflict looks like.
+Let's check it out how a merge conflict looks like..
